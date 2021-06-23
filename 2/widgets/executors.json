@@ -1,0 +1,10 @@
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://Czucz538.github.io/cicd-py-example",
+  "buildOrder" : 2,
+  "buildName" : "GitHub Actions Run #963377159",
+  "buildUrl" : "https://github.com/Czucz538/cicd-py-example/actions/runs/963377159",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://Czucz538.github.io/cicd-py-example/2/"
+} ]
